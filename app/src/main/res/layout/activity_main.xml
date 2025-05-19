@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/appNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weather"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_launcher_foreground" android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/phumeleloTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="PHUMELELO"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/ST10492650TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="ST10492650"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/proceedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Proceed to Main Screen" />
+
+</LinearLayout>
