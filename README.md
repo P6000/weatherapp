@@ -39,7 +39,8 @@ The app displays the maximum temperature for each day of the week and calculates
 * ✅ Correct use of a loop to display values and calculate average.
 * ✅ Simple, working navigation between screens.
 * ✅ App shows the developer's name, student number, and a basic logo
-https://github.com/P6000/task4/
+
 Screenshot_20250519_155139.png
 Screenshot_20250519_165517.png
+https://github.com/P6000/TAST4.git
 
