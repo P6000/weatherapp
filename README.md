@@ -25,6 +25,12 @@ The app displays the maximum temperature for each day of the week and calculates
 * Calculates and shows the average maximum temperature using a loop.
 * Includes a "Back" button to return to the Welcome Screen.
 
+* Screen 3 – Conditions Screen:
+
+Receives the selected day and condition from the Main screen via Intent
+Displays the day and its condition
+A “Back” button that returns to the Main screen
+
 ## Technical Details
 
 * Developed using Android Studio with Kotlin.
